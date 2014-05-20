@@ -3,6 +3,10 @@
 *.ko
 *.obj
 *.elf
+*.map
+*.lst
+*.bin
+*.hex
 
 # Libraries
 *.lib

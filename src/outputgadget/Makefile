@@ -1,5 +1,5 @@
 # put your *.o targets here, make should handle the rest!
-SRCS = main.c ../common/nokialcd.c ../common/timers.c ../common/system.c ../common/graphics.c ../common/system_stm32l1xx.c
+SRCS = main.c ../common/nokialcd.c ../common/timers.c ../common/system.c ../common/graphics.c ../common/system_stm32l1xx.c ../common/mini-printf.c
 
 # all the files will be generated with this name (main.elf, main.bin, main.hex, etc)
 PROJ_NAME=main

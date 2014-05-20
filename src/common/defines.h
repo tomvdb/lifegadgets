@@ -7,6 +7,7 @@
 #include "nokialcd.h"
 #include "graphics.h"
 #include "timers.h"
+#include "mini-printf.h"
 
 
 #endif
